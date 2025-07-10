@@ -22,4 +22,6 @@ It educates users on phishing techniques, real-life attacks, and defense strateg
 - Phishing_Awareness_Presentation.pptx
 
 ## 🔗 LinkedIn Video Post
+https://www.linkedin.com/posts/harshwardhan-chorghe-9019b4259_cyber-security-phishing-attack-activity-7348954053848068096-2ZGa?utm_source=share&utm_medium=member_ios&rcm=ACoAAD-vlxEBFal6WpMzNn8pKpuvWnRQevJ7xkc
+https://www.linkedin.com/posts/harshwardhan-chorghe-9019b4259_cybersecurity-internship-phishing-activity-7348954964196495360-27Ew?utm_source=share&utm_medium=member_ios&rcm=ACoAAD-vlxEBFal6WpMzNn8pKpuvWnRQevJ7xkc
 
