@@ -1,4 +1,4 @@
-#  – Phishing Awareness Training
+#  Phishing Awareness Training
 
 ## 📌 Description
 This presentation is developed as part of the Cyber Security Internship.  
